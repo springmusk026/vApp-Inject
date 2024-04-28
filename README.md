@@ -25,7 +25,7 @@ vApp-Inject uses the following dependencies:
 
 To use vApp-Inject in your Android project, follow these steps:
 
-1. Download the vApp-Inject project from [GitHub](https://github.com/springmusk026/vApp-Inject).
+1. Download or Clone the vApp-Inject project from [GitHub](https://github.com/springmusk026/vApp-Inject).
 
 ### Usage
 
@@ -42,6 +42,9 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ### Support
 
 For any questions or support related to vApp-Inject, you can reach out to the project maintainers or community through the GitHub repository's issue tracker.
+
+### External Libraries
+Plugin file from [SpaceCore Releases](https://github.com/FSpaceCore/SpaceCore/releases/)
 
 ---
 
