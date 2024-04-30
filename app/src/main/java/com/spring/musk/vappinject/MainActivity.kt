@@ -168,7 +168,7 @@ class MainActivity : AppCompatActivity() {
     companion object {
         private const val FILE_PERMISSION_REQUEST_CODE = 1002
         private const val INSTALL_PERMISSION_REQUEST_CODE = 1001
-        val USER_ID = 0
-        val PACKAGE_NAME = "com.dts.freefireth"
+        val USER_ID = 0 // the user id
+        val PACKAGE_NAME = "com.dts.freefireth" //the package name of app you want to run in vapp
     }
 }
